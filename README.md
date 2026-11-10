@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Aurora Ice — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-season.png" alt="The Season"><br><sub>The Season</sub></td><td width="50%"><img src="assets/screenshot-choreo.png" alt="Planning the choreography"><br><sub>Planning the choreography</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-results.png" alt="Kiss & Cry: the scores"><br><sub>Kiss & Cry: the scores</sub></td><td width="50%"><img src="assets/screenshot-train.png" alt="Practice Ice"><br><sub>Practice Ice</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
